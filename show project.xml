@@ -1,0 +1,19 @@
+<!--XML project shower-->
+
+<xml>
+
+<project>
+<info>
+	<title><js src="projectinf.js">pname</js></title>
+	<desc><js src="projectinf.js">pdesc</js></desc>
+	<Xinf src="projectinf.js"><!--extra info-->pxinf</Xinf>
+</info>
+
+<files>
+	<var>
+		<js>var = ('<import src="files/">' + file + '</import>')</js>
+	</var>
+</files>
+<js src="runfiles.js" with="files"></js>
+</project>
+</xml>

@@ -1,0 +1,25 @@
+PROJECT s2exe
+
+scratch to EXE converter
+
+to-do:
+	executable/package files:
+		exe;
+		gz;
+		ber;
+		crx;
+		apk;
+		elf;
+		deb;
+		msix;
+		bx;
+		tbrx;
+	/
+	actually make the exe file itself
+
+
+
+
+
+
+by Billybot21
