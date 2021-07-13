@@ -1,7 +1,5 @@
 <!--XML project shower-->
 
-<xml>
-
 <project>
 <info>
 	<title><js src="projectinf.js">pname</js></title>
@@ -16,4 +14,3 @@
 </files>
 <js src="runfiles.js" with="files"></js>
 </project>
-</xml>
